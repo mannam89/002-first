@@ -1,0 +1,2 @@
+ls : show list
+pwd : current path
